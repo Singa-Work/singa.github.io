@@ -1,2 +1,2 @@
 # singa.github.io
-eFX daily color
+eFX daily color - 
